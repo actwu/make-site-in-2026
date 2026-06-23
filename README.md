@@ -4,7 +4,7 @@ A practical reference for building a modern website or web system from scratch. 
 
 ---
 
-## Stack at a Glance
+## 0.1 What we will use. at a Glance
 
 | What | Tool | Link |
 |------|------|------|
@@ -12,15 +12,15 @@ A practical reference for building a modern website or web system from scratch. 
 | Realtime | Liveblocks | https://liveblocks.io |
 | SEO | SEO Generator | https://actwu.github.io/gen/seo/ |
 | Analytics | Google Search Console | https://search.google.com/search-console |
-| Security | YN Security Patch |  |
+| Security | YN Security Patch | 
 
 ---
 
-## Development Flow
+## 2. Development Flow
 
 1. Build the site or system
-2. Add authentication via Clerk
-3. Add realtime features via Liveblocks
+ - Add authentication via Clerk
+ - Add realtime features via Liveblocks
 4. Generate and fill in SEO metadata
 5. Submit the sitemap to Google Search Console
 6. Monitor performance and indexing
