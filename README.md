@@ -119,26 +119,60 @@ Use the generator to fill in all metadata fields before going live.
 **Sample prompt to generate SEO:**
 
 ```
-Apple website, Simple, Flat, Minimal
+ One file 
+ website, Simple, Flat, Minimal
 
 --
 
 Make me my seo
 
-<title>MansanasPH</title>
-[paste template here]
+<title> MY title </title>
+
+<title></title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<link rel="icon" href="">
+<link rel="canonical" href="">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+<meta property="og:url" content="">
+<meta property="og:type" content="">
+<meta property="og:site_name" content="">
+<meta property="og:locale" content="">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="">
+<meta name="twitter:site" content="">
+<meta name="twitter:creator" content="">
+
+<meta name='google-site-verification' content=''>
+<meta name='msvalidate.01' content=''>
+
+<link rel="manifest" href="manifest.json">
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"","url":"","logo":"","description":""}</script>
 
 --
 
-mansanas PH, apple store, apple shop
+The navigation is compress and remains fully transparent while the user is inside the hero fold, 
+smoothly fade to navigation and into the background once they scroll down past hero.
 
---
-
-The navigation background remains fully transparent while the user is inside the hero fold, smoothly fading into the background once they scroll down past hero.
-
-Video hero
+Hero with Video as Background 
 Cycle this video with fade
 https://cdn.pixabay.com/video/2023/08/17/176489-855554923_large.mp4
+
+Hero content is on bottom left
+3 Content only
+- Title
+- Tagline
+- CTA
 
 --
 
@@ -146,7 +180,7 @@ Tailwind, CSS, Iconify CDN use Mingcute, JS, Html
 
 --
 
-one file
+One file
 ```
 
 ---
