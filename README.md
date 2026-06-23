@@ -6,6 +6,27 @@ A practical reference for building a modern website or web system from scratch. 
 
 ---
 
+## Basics
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
+
+  1. `index.html` is first file
+  2. `404.html` is all path file
+
+  Codes is here
+  [github.new](github.new)
+  - Private pls
+  - put your `index.html` here.
+
+  Deploy is here
+  [vercel.com](vercel.com)
+  1. Project 
+  2. Import
+  
+</details>
+
+
 ## 1. What we will use. at a Glance
 <details>
   <summary><strong>Expand</strong></summary>
