@@ -167,8 +167,10 @@ The navigation is compress and remains fully transparent while the user is insid
 smoothly fade to navigation and into the background once they scroll down past hero.
 
 Hero with Video as Background 
-Cycle this video with fade
+Cycle this video with fade then play again
+https://cdn.pixabay.com/video/2022/09/30/133133-755975202_large.mp4
 https://cdn.pixabay.com/video/2023/08/17/176489-855554923_large.mp4
+
 
 Hero content is on bottom left
 3 Content only
