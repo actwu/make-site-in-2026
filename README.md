@@ -4,7 +4,7 @@ A practical reference for building a modern website or web system from scratch. 
 
 ---
 
-## 0.1 What we will use. at a Glance
+## 1. What we will use. at a Glance
 
 | What | Tool | Link |
 |------|------|------|
