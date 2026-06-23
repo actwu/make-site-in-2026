@@ -1,6 +1,7 @@
 # make-site-in-2026
 
 [Without Clerk and DB Liveblocks](README.md)
+
 A practical reference for building a modern website or web system from scratch. Covers the full stack: auth, realtime, SEO, analytics, security, and web standards.
 
 ---
