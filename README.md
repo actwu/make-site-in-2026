@@ -121,7 +121,9 @@ Use the generator to fill in all metadata fields before going live.
 ```
  One file 
  website, Simple, Flat, Minimal
+--
 
+Tailwind, CSS, Iconify CDN use Mingcute, JS, Html
 --
 
 Make me my seo
@@ -176,9 +178,26 @@ Hero content is on bottom left
 
 --
 
-Tailwind, CSS, Iconify CDN use Mingcute, JS, Html
+Here is the setup 
+- Video Hero
+- Trust Badges
+- Featured In
+- About
+- Services / Products
+- Benefits
+- How It Works
+- Results
+- Testimonials
+- Case Studies
+- Team
+- FAQ
+- Contact
+- Footer
+
 
 --
+
+
 
 One file
 ```
