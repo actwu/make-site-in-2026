@@ -7,17 +7,25 @@ A practical reference for building a modern website or web system from scratch. 
 ---
 
 ## 1. What we will use. at a Glance
-
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
+  
 | What | Tool | Link |
 |------|------|------|
 | SEO | SEO Generator | https://actwu.github.io/gen/seo/ |
 | Analytics | Google Search Console | https://search.google.com/search-console |
 | Security | YN Security Patch | 
-
+  
+</details>
 ---
 
 ## 2. Development Flow
 
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
+  
 1. Build the site or system
 4. Generate and fill in SEO metadata
 5. Submit the sitemap to Google Search Console
@@ -25,12 +33,16 @@ A practical reference for building a modern website or web system from scratch. 
 7. Iterate on SEO and UX
 8. Scale features based on analytics
 
+</details>
 ---
 
 ---
 
 ## SEO
 
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
 Use the generator to fill in all metadata fields before going live.
 
 **Generator:** https://actwu.github.io/gen/seo/
@@ -75,7 +87,15 @@ Use the generator to fill in all metadata fields before going live.
 </script>
 ```
 
-**Sample Clerk prompt to generate SEO:**
+</details>
+
+## Prompt
+
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
+  
+**Sample prompt to generate SEO:**
 
 ```
 Apple website, Simple, Flat, Minimal
@@ -110,12 +130,18 @@ one file
 
 ---
 
+</details>
+
 ## Analytics — Google Search Console
 
 https://search.google.com/search-console
 
 Submit your sitemap here after launch. Monitors search performance, index coverage, Core Web Vitals, and search appearance.
 
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
+  
 **Post-launch checklist:**
 - Submit `sitemap.xml`
 - Verify ownership via meta tag or DNS
@@ -225,6 +251,13 @@ Submit your sitemap here after launch. Monitors search performance, index covera
 ```
 ---
 
+</details>
+
+
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
+  
 ## Security — YN Security Patch
 
 Drop this into every page. Loads before content via `defer`.
@@ -239,10 +272,17 @@ Drop this into every page. Loads before content via `defer`.
 
 ---
 
+</details>
+
+
 ## Web Standards Checklist
 
 A condensed version of the full spec at https://websitechecklists.io.
 
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
+  
 ### Foundations (Required)
 
 - `<!doctype html>` as the very first line
@@ -300,7 +340,13 @@ A condensed version of the full spec at https://websitechecklists.io.
 
 ---
 
-## Rounded Button
+</details>
+
+
+<details>
+  <summary><strong>Expand</strong></summary>
+  <br>
+Please Rounded Button
 
 Copy-paste button style for any dark UI.
 
@@ -336,3 +382,5 @@ Copy-paste button style for any dark UI.
 <button class="btn">Get Started</button>
 <button class="btn btn-dark">Learn More</button>
 ```
+
+</details>
