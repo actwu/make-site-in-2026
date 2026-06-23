@@ -12,7 +12,7 @@ A practical reference for building a modern website or web system from scratch. 
 | Realtime | Liveblocks | https://liveblocks.io |
 | SEO | SEO Generator | https://actwu.github.io/gen/seo/ |
 | Analytics | Google Search Console | https://search.google.com/search-console |
-| Security | YN Security Patch | https://ynpasc.vercel.app/security/patch/public/base.js |
+| Security | YN Security Patch |  |
 
 ---
 
