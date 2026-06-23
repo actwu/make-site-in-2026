@@ -322,7 +322,111 @@ Features:
 Reference prompt examples and AI workflow experiments.
 
 ### Prompt Collection
-- https://hmke.vercel.app/io2lelgsV4
+```
+Apple website, Simple, Flat, Minimal
+
+
+
+--
+
+Make me my seo
+
+<title>MansanasPH</title>
+
+<meta name="description" content="">
+
+<meta name="keywords" content="">
+
+<meta name="author" content="">
+
+<meta name="robots" content="index, follow">
+
+<meta name="googlebot" content="index, follow">
+
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+<link rel="icon" href="">
+
+<link rel="canonical" href="">
+
+<meta property="og:title" content="">
+
+<meta property="og:description" content="">
+
+<meta property="og:image" content="">
+
+<meta property="og:url" content="">
+
+<meta property="og:type" content="">
+
+<meta property="og:site_name" content="">
+
+<meta property="og:locale" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+
+<meta name="twitter:title" content="">
+
+<meta name="twitter:description" content="">
+
+<meta name="twitter:image" content="">
+
+<meta name="twitter:site" content="">
+
+<meta name="twitter:creator" content="">
+
+
+
+<meta name='google-site-verification' content=''>
+
+<meta name='msvalidate.01' content=''>
+
+
+
+<link rel="manifest" href="manifest.json">
+
+
+
+<script type="application/ld+json">
+
+{"@context":"https://schema.org","@type":"Organization","name":"","url":"","logo":"","description":""}</script>
+
+
+
+--
+
+
+
+mansanas PH, apple store, apple shop
+
+
+
+--
+
+
+
+Video hero 
+
+Cycle this video with fade
+
+https://cdn.pixabay.com/video/2023/08/17/176489-855554923_large.mp4
+
+
+
+--
+
+
+
+Tailwind, CSS, Iconify CDN use Mingcute, JS, Html
+
+
+
+--
+
+
+
+one file
+```
 
 Possible Uses:
 - AI workflow inspiration
@@ -353,3 +457,5 @@ Possible Uses:
 6. Monitor Performance & Indexing
 7. Optimize SEO and User Experience
 8. Scale Features Based on Analytics Data
+
+
