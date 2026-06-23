@@ -93,7 +93,7 @@ mansanas PH, apple store, apple shop
 
 --
 
-Nav has no bg when on hero.
+The navigation background remains fully transparent while the user is inside the hero fold, smoothly fading into the background once they scroll down past hero.
 
 Video hero
 Cycle this video with fade
