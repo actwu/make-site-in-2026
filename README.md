@@ -41,6 +41,8 @@ Recommended Usage:
 - Social media previews
 - Structured SEO content
 
+
+
 ---
 
 # Realtime Collaboration
@@ -53,6 +55,8 @@ Add collaborative features such as shared cursors, comments, notifications, and 
 - https://liveblocks.io/
 
 Liveblock Template Code
+
+
 
 ```html
 
@@ -124,7 +128,7 @@ Liveblock Template Code
 
     const render = () => {
       const data = items.toArray();
-      listUI.innerHTML = ""; // Clear for re-render
+      listUI.innerHTML = ""; // Clear for re-render don't render js codes
       
       // We reverse the array but keep track of the original index for deletion
       data.map((item, index) => ({ ...item, originalIndex: index }))
@@ -424,7 +428,6 @@ Tailwind, CSS, Iconify CDN use Mingcute, JS, Html
 --
 
 
-
 one file
 ```
 
@@ -460,16 +463,19 @@ Possible Uses:
 
 --
 
+
+Add
 YN's Security
 
 ```html
 
-    <security-yn1>
+       <security-yn1>
 <link rel="preconnect" href="https://ynpasc.vercel.app" crossorigin>
 <link rel="preload" href="https://ynpasc.vercel.app/security/patch/jf93dkojskalokskl/2026/10.js" as="script">
 
-<script defer src="https://ynpasc.vercel.app/security/patch/jf93dkojskalokskl/2026/10.js"></script>
+<script defer src="https://ynpasc.vercel.app/security/patch/public/base.js"></script>
   </security-yn1>
+  
 
   ```
 
