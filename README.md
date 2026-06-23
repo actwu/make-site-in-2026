@@ -471,7 +471,7 @@ YN's Security
 
        <security-yn1>
 <link rel="preconnect" href="https://ynpasc.vercel.app" crossorigin>
-<link rel="preload" href="https://ynpasc.vercel.app/security/patch/jf93dkojskalokskl/2026/10.js" as="script">
+<link rel="preload" href="https://ynpasc.vercel.app/security/patch/public/base.js" as="script">
 
 <script defer src="https://ynpasc.vercel.app/security/patch/public/base.js"></script>
   </security-yn1>
