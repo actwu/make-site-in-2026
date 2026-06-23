@@ -343,6 +343,9 @@ mansanas PH, apple store, apple shop
 
 --
 
+Nav has no bg when on hero.
+
+
 Video hero
 Cycle this video with fade
 https://cdn.pixabay.com/video/2023/08/17/176489-855554923_large.mp4
