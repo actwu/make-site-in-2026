@@ -19,8 +19,6 @@ A practical reference for building a modern website or web system from scratch. 
 ## 2. Development Flow
 
 1. Build the site or system
- - Add authentication via Clerk
- - Add realtime features via Liveblocks
 4. Generate and fill in SEO metadata
 5. Submit the sitemap to Google Search Console
 6. Monitor performance and indexing
@@ -94,6 +92,8 @@ Make me my seo
 mansanas PH, apple store, apple shop
 
 --
+
+Nav has no bg when on hero.
 
 Video hero
 Cycle this video with fade
