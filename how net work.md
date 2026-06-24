@@ -1,4 +1,4 @@
-From top to bottom:
+From top to bottom How security work
 
 ```
 Application
@@ -14,6 +14,52 @@ Ethernet / Wi-Fi
 Physical (copper, fiber, radio waves)
 ```
 
+
+## Security Vulnerabilities
+<details> <summary>Expand</summary> <br> 
+
+```
+├── Web Application Bugs
+│   ├── XSS
+│   ├── SQLi
+│   ├── SSRF
+│   ├── XXE
+│   ├── SSTI
+│   ├── IDOR
+│   ├── Auth flaws
+│   └── File upload issues
+│
+├── Memory Corruption (Native Code)
+│   ├── Buffer overflow
+│   ├── Use-after-free
+│   ├── Heap corruption
+│   ├── ROP / exploit chains
+│
+├── Browser Engine Vulnerabilities
+│   ├── Chrome V8 bugs
+│   ├── JavaScript engine exploits
+│   ├── Rendering engine issues
+│   ├── Sandboxing escapes
+│
+├── System / Kernel Exploits
+│   ├── Privilege escalation
+│   ├── Kernel bugs
+│   ├── Driver vulnerabilities
+│
+├── Hardware / CPU Side Channels
+│   ├── Spectre
+│   ├── Meltdown
+│   ├── Cache timing attacks
+│
+└── Emerging / Runtime Platforms
+    ├── WebAssembly sandbox escapes
+    ├── VM escapes
+    ├── Container escapes
+
+```
+
+</details>
+    
 ## Application Layer Protocols
 
 
