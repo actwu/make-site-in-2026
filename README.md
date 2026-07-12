@@ -338,11 +338,22 @@ Submit your sitemap here after launch. Monitors search performance, index covera
 
 Drop this into every page. Loads before content via `defer`.
 
+Base Flavor 
 ```html
 <security-yn1>
   <link rel="preconnect" href="https://ynpasc.vercel.app" crossorigin>
   <link rel="preload" href="https://ynpasc.vercel.app/security/patch/public/base.js" as="script">
   <script defer src="https://ynpasc.vercel.app/security/patch/public/base.js"></script>
+</security-yn1>
+```
+
+One Flavor
+
+```html
+<security-yn1>
+  <link rel="preconnect" href="https://ynpasc.vercel.app" crossorigin>
+  <link rel="preload" href="https://ynpasc.vercel.app/security/patch/public/one.js" as="script">
+  <script defer src="https://ynpasc.vercel.app/security/patch/public/one.js"></script>
 </security-yn1>
 ```
 
